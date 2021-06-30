@@ -1,0 +1,19 @@
+Info 0    [22:32:42.236] Starting TS Server
+Info 1    [22:32:42.237] Version: 4.3.4
+Info 2    [22:32:42.237] Arguments: /home/sewdohe/.nvm/versions/node/v14.17.1/bin/node /home/sewdohe/.nvm/versions/node/v14.17.1/bin/tsserver --logFile /home/sewdohe/Code/Websites/div-nectar/.log/tsserver.log --logVerbosity info --cancellationPipeName /tmp/81a513e6e4b51acfcd902f87b62ca2ca/tscancellation*
+Info 3    [22:32:42.237] Platform: linux NodeVersion: 14 CaseSensitive: true
+Info 4    [22:32:42.237] ServerMode: undefined syntaxOnly: false hasUnknownServerMode: undefined
+Info 5    [22:32:42.316] Search path: /home/sewdohe/Code/Websites/div-nectar/src/pages
+Info 6    [22:32:42.317] For info: /home/sewdohe/Code/Websites/div-nectar/src/pages/index.js :: No config files found.
+Info 7    [22:32:42.321] Starting updateGraphWorker: Project: /dev/null/inferredProject1*
+Info 8    [22:32:44.295] Finishing updateGraphWorker: Project: /dev/null/inferredProject1* Version: 1 structureChanged: true Elapsed: 1973.542690000002ms
+Info 9    [22:32:44.295] Project '/dev/null/inferredProject1*' (Inferred)
+Info 10   [22:32:44.295] 	Files (156)
+
+Info 11   [22:32:44.295] -----------------------------------------------
+Info 12   [22:32:44.323] Starting updateGraphWorker: Project: /dev/null/autoImportProviderProject1*
+Info 13   [22:32:45.165] Finishing updateGraphWorker: Project: /dev/null/autoImportProviderProject1* Version: 1 structureChanged: true Elapsed: 842.7053999999989ms
+Info 14   [22:32:45.165] Project '/dev/null/autoImportProviderProject1*' (AutoImportProvider)
+Info 15   [22:32:45.165] 	Files (189)
+
+Info 16   [22:32:45.165] -----------------------------------------------

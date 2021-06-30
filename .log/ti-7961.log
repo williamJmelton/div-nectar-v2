@@ -1,0 +1,34 @@
+[03:21:05.350] Global cache location '/home/sewdohe/.cache/typescript/4.3', safe file path '/home/sewdohe/.nvm/versions/node/v14.17.1/lib/node_modules/typescript/lib/typingSafeList.json', types map path /home/sewdohe/.nvm/versions/node/v14.17.1/lib/node_modules/typescript/lib/typesMap.json
+[03:21:05.350] Processing cache location '/home/sewdohe/.cache/typescript/4.3'
+[03:21:05.350] Trying to find '/home/sewdohe/.cache/typescript/4.3/package.json'...
+[03:21:05.350] Finished processing cache location '/home/sewdohe/.cache/typescript/4.3'
+[03:21:05.350] Process id: 7968
+[03:21:05.350] NPM location: /home/sewdohe/.nvm/versions/node/v14.17.1/bin/npm (explicit '--npmLocation' not  provided)
+[03:21:05.350] validateDefaultNpmLocation: false
+[03:21:05.351] Npm config file: /home/sewdohe/.cache/typescript/4.3/package.json
+[03:21:05.351] Npm config file: '/home/sewdohe/.cache/typescript/4.3/package.json' is missing, creating new one...
+[03:21:05.351] Updating types-registry npm package...
+[03:21:05.351] Exec: /home/sewdohe/.nvm/versions/node/v14.17.1/bin/npm install --ignore-scripts types-registry@latest
+[03:21:06.523]     Succeeded. stdout:
+    + types-registry@0.1.547
+    added 1 package from 1 contributor and audited 1 package in 0.744s
+found 0 vulnerabilities
+
+
+[03:21:06.524] Updated types-registry npm package
+[03:21:09.145] Got install request {"projectName":"/dev/null/inferredProject1*","fileNames":["/home/sewdohe/.nvm/versions/node/v14.17.1/lib/node_modules/typescript/lib/lib.es5.d.ts","/home/sewdohe/.nvm/versions/node/v14.17.1/lib/node_modules/typescript/lib/lib.es2015.d.ts","/home/sewdohe/.nvm/versions/node/v14.17.1/lib/node_modules/typescript/lib/lib.es2016.d.ts","/home/sewdohe/.nvm/versions/node/v14.17.1/lib/node_modules/typescript/lib/lib.dom.d.ts","/home/sewdohe/.nvm/versions/node/v14.17.1/lib/node_modules/typescript/lib/lib.dom.iterable.d.ts","/home/sewdohe/.nvm/versions/node/v14.17.1/lib/node_modules/typescript/lib/lib.webworker.importscripts.d.ts","/home/sewdohe/.nvm/versions/node/v14.17.1/lib/node_modules/typescript/lib/lib.scripthost.d.ts","/home/sewdohe/.nvm/versions/node/v14.17.1/lib/node_modules/typescript/lib/lib.es2015.core.d.ts","/home/sewdohe/.nvm/versions/node/v14.17.1/lib/node_modules/typescript/lib/lib.es2015.collection.d.ts","/home/sewdohe/.nvm/versions/node/v14.17.1/lib/node_modules/typescript/lib/lib.es2015.generator.d.ts","/home/sewdohe/.nvm/versions/node/v14.17.1/lib/node_modules/typescript/lib/lib.es2015.iterable.d.ts","/home/sewdohe/.nvm/versions/node/v14.17.1/lib/node_modules/typescript/lib/lib.es2015.promise.d.ts","/home/sewdohe/.nvm/versions/node/v14.17.1/lib/node_modules/typescript/lib/lib.es2015.proxy.d.ts","/home/sewdohe/.nvm/versions/node/v14.17.1/lib/node_modules/typescript/lib/lib.es2015.reflect.d.ts","/home/sewdohe/.nvm/versions/node/v14.17.1/lib/node_modules/typescript/lib/lib.es2015.symbol.d.ts","/home/sewdohe/.nvm/versions/node/v14.17.1/lib/node_modules/typescript/lib/lib.es2015.symbol.wellknown.d.ts","/home/sewdohe/.nvm/versions/node/v14.17.1/lib/node_modules/typescript/lib/lib.es2016.array.include.d.ts","/home/sewdohe/.nvm/versions/node/v14.17.1/lib/node_modules/typescript/lib/lib.es2016.full.d.ts","/home/sewdohe/Code/Websites/div-nectar/src/pages/index.js"],"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typeAcquisition":{"enable":true,"include":[],"exclude":[]},"unresolvedImports":[],"projectRootPath":"/home/sewdohe/Code/Websites/div-nectar/src/pages","kind":"discover"}
+[03:21:09.182] Loaded safelist from types map file '/home/sewdohe/.nvm/versions/node/v14.17.1/lib/node_modules/typescript/lib/typesMap.json'
+[03:21:09.183] Explicitly included types: []
+[03:21:09.184] Inferred typings from unresolved imports: []
+[03:21:09.184] Result: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/sewdohe/Code/Websites/div-nectar/src/pages/bower_components","/home/sewdohe/Code/Websites/div-nectar/src/pages/node_modules"]}
+[03:21:09.184] Finished typings discovery: {"cachedTypingPaths":[],"newTypingNames":[],"filesToWatch":["/home/sewdohe/Code/Websites/div-nectar/src/pages/bower_components","/home/sewdohe/Code/Websites/div-nectar/src/pages/node_modules"]}
+[03:21:09.185] DirectoryWatcher:: Added:: WatchInfo: /home/sewdohe/Code/Websites/div-nectar/src/pages/bower_components
+[03:21:09.185] DirectoryWatcher:: Added:: WatchInfo: /home/sewdohe/Code/Websites/div-nectar/src/pages/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[03:21:09.188] Elapsed:: 2.438363999943249ms DirectoryWatcher:: Added:: WatchInfo: /home/sewdohe/Code/Websites/div-nectar/src/pages/bower_components 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[03:21:09.188] DirectoryWatcher:: Added:: WatchInfo: /home/sewdohe/Code/Websites/div-nectar/src/pages/node_modules
+[03:21:09.188] DirectoryWatcher:: Added:: WatchInfo: /home/sewdohe/Code/Websites/div-nectar/src/pages/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[03:21:09.188] Elapsed:: 0.15068800002336502ms DirectoryWatcher:: Added:: WatchInfo: /home/sewdohe/Code/Websites/div-nectar/src/pages/node_modules 1 undefined Project: /dev/null/inferredProject1* watcher already invoked: false
+[03:21:09.188] Sending response:
+    {"projectName":"/dev/null/inferredProject1*","typeAcquisition":{"enable":true,"include":[],"exclude":[]},"compilerOptions":{"module":1,"target":3,"jsx":1,"allowJs":true,"allowSyntheticDefaultImports":true,"allowNonTsExtensions":true,"noEmitForJsFiles":true,"maxNodeModuleJsDepth":2},"typings":[],"unresolvedImports":[],"kind":"action::set"}
+[03:21:09.189] Response has been sent.
+[03:21:09.189] No new typings were requested as a result of typings discovery
